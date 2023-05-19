@@ -6,3 +6,8 @@
     "editor.defaultFormatter": "Prisma.prisma",
     "editor.formatOnSave": true
   }
+
+
+
+https://youtu.be/FNYRTmXBAVY
+  https://youtu.be/BkDQI-W1Wh4
